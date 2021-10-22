@@ -1,0 +1,26 @@
+2.
+$ ls
+3.
+$ pwd
+4.
+$ cd desktop/
+5.
+$ pwd
+/home/rafal/desktop
+6. 
+$ ls 
+7. tak
+8.
+$ ls ~
+9. 
+$ cd ../pictures/
+10. 
+$ pwd
+/home/rafal/pictures
+11. Zostanę w tym samym (. odwołuje się do bierzącego katalogu)
+12.
+$ cd /home/rafal/
+13.
+Odmowa dostępu
+14.
+Nastąpiło przełączenie do konsoli nr 0

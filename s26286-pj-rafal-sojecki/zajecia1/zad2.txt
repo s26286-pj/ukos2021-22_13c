@@ -1,0 +1,15 @@
+$ cd ~
+$ mkdir -p ukos/katalog/katalog2 ukos/katalog/katalog3 ukos/klamka
+
+$ cd ukos/klamka
+$ touch zajecia2.txt zajecia2.log inny.txt nowy.txt
+
+$ cd .. && mkdir -p to/jest/dluga/nazwa
+
+$ touch to/jest/dluga/nazwa/dane.txt
+
+$ rm klamka/*.txt
+
+$ rmdir katalog/katalog2
+
+$ rm -rf klamka/
