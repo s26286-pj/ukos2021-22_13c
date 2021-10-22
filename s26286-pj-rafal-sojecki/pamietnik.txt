@@ -1,0 +1,6 @@
+2021-09-10
+Na dzisiejszych zajeciach nauczylem/lam sie:
+- Pracy z obrazami w virtualbox-ie bez ich modyfikacji (wykorzystując plik
+przyrostowy)
+- Struktury plików w systemie linux - poznałem przeznaczenie i zawartość
+poszczególnych folderów w katalogu głównym
