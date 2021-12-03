@@ -9,3 +9,11 @@ Na dzisiejszych zajęciach nauczyłem się:
 - Zmiany praw dostępu do plików przy zapisie literowym wykorzystując komendę
 chmod
 - Różnic pomiędzy nadawaniem praw odczytu dla plików i folderów (parametr x jako "prawo do wejścia")
+2021-23-10
+- Nadrobiłem zaległości z nadawań praw dostępu
+2021-06-11
+Nie było mnie na zajęciach
+2021-20-12
+- Nie ufać PKP
+- Nauczyłem się korzystania z komend fg i bg
+- Wykorzystywanie wyrażeń regularnych jako parametrów polecenia ls
