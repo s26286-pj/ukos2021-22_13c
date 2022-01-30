@@ -17,3 +17,7 @@ Nie było mnie na zajęciach
 - Nie ufać PKP
 - Nauczyłem się korzystania z komend fg i bg
 - Wykorzystywanie wyrażeń regularnych jako parametrów polecenia ls
+2022-01-11
+- Pierwsze spotkanie z PowerShell-em, poznanie przykładowych komend i ich wykonanie pozwoliło na minimalny zarys jak te narzędzie działa.
+2022-01-29
+- Obejrzałem nagranie ćwiczeń - przekonałem się do PowerShell-a, jego możliwości mnie zaciekawiły, planuję wykorzystać do jakiegoś ciekawego projektu w wolnym czasie.
